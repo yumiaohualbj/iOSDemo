@@ -1,0 +1,51 @@
+<iq xmlns="jabber:client" type="result" id="roomInfo" from="146424269706@group.worlduc.com" to="36@worlduc.com/8ee8b476">
+<query xmlns="http://jabber.org/protocol/disco#info">
+<identity category="conference" name="Jjkdjkdjk" type="text"/>
+<feature var="http://jabber.org/protocol/muc"/>
+<feature var="muc_public"/>
+<feature var="muc_membersonly"/>
+<feature var="muc_unmoderated"/>
+<feature var="muc_semianonymous"/>
+<feature var="muc_unsecured"/>
+<feature var="muc_persistent"/>
+<feature var="http://jabber.org/protocol/disco#info"/>
+<x xmlns="jabber:x:data" type="result">
+<field var="FORM_TYPE" type="hidden">
+<value>http://jabber.org/protocol/muc#roominfo</value>
+</field>
+<field var="muc#roominfo_description" label="&#x63CF;&#x8FF0;">
+<value>Dldklddlklk</value>
+</field>
+<field var="muc#roominfo_subject" label="&#x4E3B;&#x9898;">
+<value/>
+</field>
+<field var="muc#roominfo_occupants" label="&#x5360;&#x6709;&#x8005;&#x4EBA;&#x6570;">
+<value>1</value>
+</field>
+<field var="x-muc#roominfo_creationdate" label="&#x521B;&#x5EFA;&#x65E5;&#x671F;"><value>20160526T06:05:22</value>
+</field>
+</x>
+</query>
+</iq>
+
+
+ <iq xmlns="jabber:client" type="result" id="roomInfo" from="146483644966@group.worlduc.com" to="36@worlduc.com/c0ca7030">
+ <query xmlns="http://jabber.org/protocol/disco#info">
+ <identity category="conference" name="&#x89C4;&#x5212;&#x597D;" type="text"/>
+ <feature var="http://jabber.org/protocol/muc"/>
+ <feature var="muc_public"/>
+ <feature var="muc_membersonly"/>
+ <feature var="muc_unmoderated"/>
+ <feature var="muc_semianonymous"/>
+ <feature var="muc_unsecured"/>
+ <feature var="muc_persistent"/>
+ <feature var="http://jabber.org/protocol/disco#info"/>
+ <x xmlns="jabber:x:data" type="result">
+ </field>
+ <field var="muc#roominfo_description" label="&#x63CF;&#x8FF0;"><value>vvh</value></field>
+ <field var="muc#roominfo_subject" label="&#x4E3B;&#x9898;"><value/></field>
+ <field var="muc#roominfo_occupants" label="&#x5360;&#x6709;&#x8005;&#x4EBA;&#x6570;"><value>1</value></field>
+ <field var="x-muc#roominfo_creationdate" label="&#x521B;&#x5EFA;&#x65E5;&#x671F;"><value>20160602T03:01:14</value></field>
+ </x>
+ </query>
+ </iq>
